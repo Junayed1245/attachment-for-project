@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>JSON Visualization</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+</head>
+
+<body>
+    <h1>JSON Data Visualization</h1>
+
+    <input type="file" id="fileInput" accept=".json">
+    <input type="text" id="searchInput" placeholder="Search">
+    <select id="searchField">
+        <option value="name">Name</option>
+        <option value="favoriteFruit">Favorite fruit</option>
+        <option value="about">About</option>
+    </select>
+    <select id="sortField">
+        <option value="name">Sort by Name</option>
+        <option value="age">Sort by Age (Low to High)</option>
+        <option value="gender">Sort by Gender</option>
+        <option value="favoriteFruit">Sort by Favorite fruit</option>
+        <option value="about">Sort by About</option>
+    </select>
+    <div id="jsonTableContainer">
+        <table id="jsonTable"></table>
+    </div>
+    <script src="index.js"></script>
+</body>
+
+</html>
