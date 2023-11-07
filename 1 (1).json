@@ -1,0 +1,317 @@
+[
+  {
+    "_id": "65368e8a3c0fab7d033572a5",
+    "index": 0,
+    "guid": "24e9abbd-9efd-41e4-b766-8007c8968cfd",
+    "isActive": true,
+    "balance": "$2,355.69",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "eyeColor": "blue",
+    "name": "Haynes Mullins",
+    "gender": "male",
+    "company": "ZOINAGE",
+    "email": "haynesmullins@zoinage.com",
+    "phone": "+1 (825) 487-2175",
+    "address": "508 Hewes Street, Clay, Louisiana, 6492",
+    "about": "i.\r\n",
+    "registered": "2018-06-05T01:47:59 -06:00",
+    "latitude": -74.681598,
+    "longitude": -109.09856,
+    "tags": [
+      "voluptate",
+      "reprehenderit",
+      "reprehenderit",
+      "ad",
+      "qui",
+      "eiusmod",
+      "consectetur"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Adrian Meyers"
+      },
+      {
+        "id": 1,
+        "name": "Beth Richardson"
+      },
+      {
+        "id": 2,
+        "name": "Bush Davidson"
+      }
+    ],
+    "greeting": "Hello, Haynes Mullins! You have 9 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "65368e8a290bf3ca92916029",
+    "index": 1,
+    "guid": "934356a7-0c1a-4829-8cc2-1ea512217e09",
+    "isActive": false,
+    "balance": "$3,281.09",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "blue",
+    "name": "Therese Cantu",
+    "gender": "female",
+    "company": "QUANTALIA",
+    "email": "theresecantu@quantalia.com",
+    "phone": "+1 (884) 463-2548",
+    "address": "881 Willow Place, Adamstown, New Hampshire, 5209",
+    "about": "r.\r\n",
+    "registered": "2014-12-08T03:17:10 -06:00",
+    "latitude": -45.980528,
+    "longitude": 38.375576,
+    "tags": [
+      "nostrud",
+      "sint",
+      "laboris",
+      "nostrud",
+      "occaecat",
+      "excepteur",
+      "cupidatat"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Trevino Lindsey"
+      },
+      {
+        "id": 1,
+        "name": "Consuelo Mcdonald"
+      },
+      {
+        "id": 2,
+        "name": "Brewer Knowles"
+      }
+    ],
+    "greeting": "Hello, Therese Cantu! You have 1 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "65368e8a817988c6debdc3c0",
+    "index": 2,
+    "guid": "26842e9a-450c-49f3-9db3-3372ad477572",
+    "isActive": false,
+    "balance": "$1,691.26",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "brown",
+    "name": "Gilliam Mcguire",
+    "gender": "male",
+    "company": "CALCULA",
+    "email": "gilliammcguire@calcula.com",
+    "phone": "+1 (923) 413-3467",
+    "address": "327 Dictum Court, Lookingglass, Texas, 7845",
+    "about": "d\r\n",
+    "registered": "2022-02-03T08:19:39 -06:00",
+    "latitude": -78.016056,
+    "longitude": 9.545671,
+    "tags": [
+      "sit",
+      "duis",
+      "exercitation",
+      "id",
+      "nulla",
+      "enim",
+      "eiusmod"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Tucker Hale"
+      },
+      {
+        "id": 1,
+        "name": "Kellie Key"
+      },
+      {
+        "id": 2,
+        "name": "Helena Newton"
+      }
+    ],
+    "greeting": "Hello, Gilliam Mcguire! You have 1 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "65368e8a7741c120bb2993b1",
+    "index": 3,
+    "guid": "ee4ec14f-dbe6-44c8-b992-9d633716f75e",
+    "isActive": true,
+    "balance": "$3,257.81",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "brown",
+    "name": "Santana Coleman",
+    "gender": "male",
+    "company": "VINCH",
+    "email": "santanacoleman@vinch.com",
+    "phone": "+1 (865) 566-3155",
+    "address": "143 Albemarle Terrace, Caroline, Massachusetts, 4828",
+    "about": "f\r\n",
+    "registered": "2014-05-11T05:58:29 -06:00",
+    "latitude": -84.022327,
+    "longitude": -48.481235,
+    "tags": [
+      "laboris",
+      "est",
+      "aute",
+      "et",
+      "exercitation",
+      "elit",
+      "amet"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Macias Owen"
+      },
+      {
+        "id": 1,
+        "name": "Parrish Spence"
+      },
+      {
+        "id": 2,
+        "name": "Nina Olsen"
+      }
+    ],
+    "greeting": "Hello, Santana Coleman! You have 8 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "65368e8a5acdb2fd88467792",
+    "index": 4,
+    "guid": "6f6ec641-ae5b-4faa-848c-9a70a9896656",
+    "isActive": true,
+    "balance": "$1,172.41",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "brown",
+    "name": "Barr Cunningham",
+    "gender": "male",
+    "company": "GEEKOL",
+    "email": "barrcunningham@geekol.com",
+    "phone": "+1 (887) 423-2512",
+    "address": "787 Schenectady Avenue, Gordon, West Virginia, 6154",
+    "about": "d\r\n",
+    "registered": "2022-08-21T12:33:51 -06:00",
+    "latitude": 27.475118,
+    "longitude": -21.737429,
+    "tags": [
+      "laboris",
+      "labore",
+      "incididunt",
+      "voluptate",
+      "nostrud",
+      "commodo",
+      "esse"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Daisy Nash"
+      },
+      {
+        "id": 1,
+        "name": "Dena Joyce"
+      },
+      {
+        "id": 2,
+        "name": "Bonita Collins"
+      }
+    ],
+    "greeting": "Hello, Barr Cunningham! You have 6 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "65368e8a8869198f741c96b3",
+    "index": 5,
+    "guid": "f0bf719b-3d38-4804-9eaf-246f06ea78fe",
+    "isActive": false,
+    "balance": "$2,002.29",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "green",
+    "name": "Gardner Lang",
+    "gender": "male",
+    "company": "FLOTONIC",
+    "email": "gardnerlang@flotonic.com",
+    "phone": "+1 (947) 414-3076",
+    "address": "915 Noll Street, Conway, Michigan, 4977",
+    "about": "n\r\n",
+    "registered": "2020-08-11T06:19:31 -06:00",
+    "latitude": 84.201235,
+    "longitude": 77.598664,
+    "tags": [
+      "consequat",
+      "id",
+      "duis",
+      "duis",
+      "magna",
+      "exercitation",
+      "proident"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Mccarthy Lester"
+      },
+      {
+        "id": 1,
+        "name": "Luz Bird"
+      },
+      {
+        "id": 2,
+        "name": "Wise Fletcher"
+      }
+    ],
+    "greeting": "Hello, Gardner Lang! You have 6 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "65368e8a7abe5423682aebff",
+    "index": 6,
+    "guid": "d53f337a-29bd-4df7-b621-5dbbe1f9b5f4",
+    "isActive": false,
+    "balance": "$2,780.88",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "green",
+    "name": "Greer Pacheco",
+    "gender": "male",
+    "company": "EARBANG",
+    "email": "greerpacheco@earbang.com",
+    "phone": "+1 (962) 520-2152",
+    "address": "451 Bridgewater Street, Rockingham, Northern Mariana Islands, 4902",
+    "about": "d\r\n",
+    "registered": "2023-10-15T11:57:36 -06:00",
+    "latitude": -26.259946,
+    "longitude": 106.238455,
+    "tags": [
+      "sit",
+      "eiusmod",
+      "occaecat",
+      "eu",
+      "pariatur",
+      "minim",
+      "nulla"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Ida Le"
+      },
+      {
+        "id": 1,
+        "name": "Melody Shaw"
+      },
+      {
+        "id": 2,
+        "name": "Saundra Maynard"
+      }
+    ],
+    "greeting": "Hello, Greer Pacheco! You have 8 unread messages.",
+    "favoriteFruit": "banana"
+  }
+]
